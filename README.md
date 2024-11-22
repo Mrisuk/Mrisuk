@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on GitHub.
-- 📫 How to reach me: email
+- 📫 How to reach me: shinymrisuk@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can't swim.
 
