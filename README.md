@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mrisuk.
 - 👀 I’m interested in computer science.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on GitHub.
 - 📫 How to reach me: shinymrisuk@gmail.com
 - 😄 Pronouns: He/Him
